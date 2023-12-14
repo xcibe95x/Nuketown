@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/manne/~-gglobal_metal_c"
+	"$surfaceprop" "Plastic"
+
+                $nocull 1
+
+                $phong 1
+                $phongboost "1.75"
+                $phongexponenttexture	"xcibe95x/nuketown/bo1/manne/~~-gglobal_metal_q-rgb&~-rglo~4d7d1306"
+                $phongexponent "45"
+                $phongtint "[1 .85 .85]"
+                $phongfresnelranges "[.05 .05 10]"
+
+                $ambientocclusion 1
+}

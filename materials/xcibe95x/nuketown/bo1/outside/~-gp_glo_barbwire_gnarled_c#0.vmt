@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gp_glo_barbwire_gnarled_c#0"
+	"$surfaceprop" "Grass"
+                "$bumpmap"		"xcibe95x/nuketown/bo1/outside/p_glo_barbwire_gnarled_n"
+                 $alphatest 1
+
+                $nocull 1
+
+                $phong 1
+                $phongboost "1.75"
+                $phongexponenttexture	"xcibe95x/nuketown/bo1/outside/~~-gp_glo_barbwire_gnarled_s-~582ff8db"
+                $phongexponent "10"
+                $phongtint "[1 .85 .85]"
+                $phongfresnelranges "[.05 .05 10]"
+
+                $ambientocclusion 1
+}

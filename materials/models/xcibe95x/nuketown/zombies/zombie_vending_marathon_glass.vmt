@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xcibe95x/nuketown/zombies/zombie_vending_marathon_glass"
+	"$translucent" 1
+}

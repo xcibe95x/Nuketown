@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture models\xcibe95x\nuketown\zombies\_-gstatic_peleliu_filecabinet_metal_c
+	$bumpmap models\xcibe95x\nuketown\zombies\_-gstatic_peleliu_filecabinet_metal_n
+	$phong 1
+}

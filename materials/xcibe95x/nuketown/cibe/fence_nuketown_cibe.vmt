@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "xcibe95x/nuketown/cibe/fence_nuketown_cibe"
+	$bumpmap	"xcibe95x/nuketown/cibe/fence_nuketown_cibe_n"
+    $surfaceprop "Wood"
+}

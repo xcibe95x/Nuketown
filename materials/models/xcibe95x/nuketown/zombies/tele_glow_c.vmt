@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture models\xcibe95x\nuketown\zombies\tele_glow_c
+	$bumpmap models\xcibe95x\nuketown\zombies\tele_glow_n
+	$phong 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Splinks\Cola\revivecol_1"
+	"$bumpmap" "Splinks\Cola\bumpybump"
+	"$translucent" 1
+}

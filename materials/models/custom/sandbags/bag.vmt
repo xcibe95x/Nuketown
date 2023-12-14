@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom/sandbags/bag"
+	"$bumpmap" "models/custom/sandbags/bag_n"
+	"$surfaceprop" "snow"
+	"$envmap" env_cubemap
+	$envmaptint "[ .2 .2 .2 ]"
+}

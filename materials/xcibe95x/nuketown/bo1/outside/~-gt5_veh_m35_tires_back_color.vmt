@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gt5_veh_m35_tires_back_color"
+	"$surfaceprop" "metal"
+                "$bumpmap"		"xcibe95x/nuketown/bo1/outside/t5_veh_m35_tires_back_normal"
+
+                $nocull 1
+
+                $phong 1
+                $phongboost "1.75"
+                $phongexponenttexture	"xcibe95x/nuketown/bo1/outside/~~-gt5_veh_m35_tires_back_spe~150a8ff4"
+                $phongexponent "45"
+                $phongtint "[1 .85 .85]"
+                $phongfresnelranges "[.05 .05 10]"
+
+                $ambientocclusion 1
+}

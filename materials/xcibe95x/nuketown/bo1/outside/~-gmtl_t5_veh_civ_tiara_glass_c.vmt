@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gmtl_t5_veh_civ_tiara_glass_c"
+	"$surfaceprop" "metal"
+                 $translucent 1
+
+	 
+                $phong			1
+
+	$phongexponent		5		
+	$phongexponenttexture	"xcibe95x/nuketown/bo1/outside/~~-gmtl_t5_veh_civ_tiara_glas~970b27c3"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"		
+}

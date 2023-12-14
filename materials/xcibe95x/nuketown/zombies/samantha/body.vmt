@@ -1,0 +1,18 @@
+vertexlitgeneric
+{
+$baseTexture "xcibe95x/nuketown/zombies/samantha/Body"
+$bumpmap "xcibe95x/nuketown/zombies/samantha/Body_N"
+$phong 1
+$phongboost ".1"
+$phongexponent 5
+$phongtint "[.85 .85 1]"
+$halflambert 0
+$phongfresnelranges "[.3 .65 30]"
+$ambientocclusion 1
+$allowdiffusemodulation 0
+$blendtintbybasealpha 0
+
+
+
+$diffuseexp "1.5"
+}

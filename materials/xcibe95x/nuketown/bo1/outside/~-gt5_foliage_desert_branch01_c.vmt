@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gt5_foliage_desert_branch01_c"
+	"$surfaceprop" "grass"
+                  $alphatest 1
+	$phong			1
+
+	$bumpmap		<texture>
+	$phongexponent		5		
+	$phongexponenttexture	"xcibe95x/nuketown/bo1/outside/~-gt5_foliage_desert_branch01_spec"
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+}

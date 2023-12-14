@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gt5_veh_schoolbus_tire_c"
+	"$surfaceprop" "metal"
+                  $alphatest 0
+	 
+                $phong			1
+
+	$bumpmap		"xcibe95x/nuketown/bo1/outside/t5_veh_schoolbus_tire_n"
+	$phongexponent		5		
+	$phongexponenttexture	"xcibe95x/nuketown/bo1/outside/~t5_veh_schoolbus_tire_sc-r&$~0fd381c1"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"		
+}

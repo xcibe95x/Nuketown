@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gt5_veh_m35_glass_color"
+	"$surfaceprop" "metal"
+                 $translucent 1
+
+	 
+                $phong			1
+
+	$phongexponent		5		
+	$phongexponenttexture	"xcibe95x/nuketown/bo1/outside/~~-gt5_veh_m35_glass_spec-rgb&$white-l"	
+	$phongboost		1.0
+	$phongfresnelranges	"[0 0.5 1]"		
+}

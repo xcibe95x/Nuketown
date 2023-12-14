@@ -1,0 +1,6 @@
+"Sky"
+{
+    "$hdrbasetexture" "skybox/nuketown_hdrup"
+    "$nofog" 1
+    "$ignorez" 1
+}

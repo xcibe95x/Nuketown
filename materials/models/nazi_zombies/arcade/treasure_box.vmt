@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture	"models/nazi_zombies/arcade/treasure_box"
+	$bumpmap	"models/nazi_zombies/arcade/treasure_box_bump"
+	$envmap		"env_cubemap"
+	$envmaptint "[.15 .15 .15]"
+	$normalmapalphaenvmapmask 1
+}

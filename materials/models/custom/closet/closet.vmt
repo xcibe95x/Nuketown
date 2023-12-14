@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom/closet/closet"
+	"$envmapmask" "models/custom/closet/closet_ref"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmapcontrast" ".1"
+}

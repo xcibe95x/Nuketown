@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xcibe95x/nuketown/zombies/zombie_vending_sleight_c"
+	"$normalmap" "models/xcibe95x/nuketown/zombies/zombie_vending_sleight_n"
+	"$surfaceprop" "Metal"
+}

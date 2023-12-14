@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$translucent" "1"
+	"$basetexture" "effects/electricity/bolt_sizzle"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 25
+		}
+	}
+}

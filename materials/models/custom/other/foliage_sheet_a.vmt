@@ -1,0 +1,6 @@
+VertexlitGeneric
+{
+$baseTexture "models/custom/other/foliage_sheet_a"
+$translucent 1
+$nocull 1
+}

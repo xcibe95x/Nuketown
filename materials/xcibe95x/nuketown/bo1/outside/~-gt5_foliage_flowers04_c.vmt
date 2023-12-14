@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xcibe95x/nuketown/bo1/outside/~-gt5_foliage_flowers04_c"
+	"$surfaceprop" "grass"
+                  $alphatest 1
+
+                $nocull 1
+
+                $phong 1
+                $phongboost "1.75"
+                $phongexponent "10"
+                $phongtint "[1 .85 .85]"
+                $phongfresnelranges "[.05 .05 10]"
+
+                $ambientocclusion 1
+}

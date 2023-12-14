@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Splinks\Cola\juggcolas_2"
+	"$bumpmap" "Splinks\Cola\bumpybump"
+	"$nocull" 1
+                "$translucent" 1
+
+"$detail" "Splinks\Cola/juggcolas_2"
+ $detailscale "1"	
+$detailblendmode 0
+$detailblendfactor 1
+
+$phongexponent 120
+$phongfresnelranges "[1 0.5 8]"
+$phongboost 5
+
+vertexlitgeneric_dx8
+{
+$envmaptint "[.05 .03 .01]"
+$envmap env_cubemap
+	$envmapmask "Splinks\Cola/juggcolas_2"
+}
+vertexlitgeneric_HDR_dx8
+{
+$envmaptint "[.22 .12 .07]"
+$envmap env_cubemap
+	$envmapmask "Splinks\Cola/juggcolas_2"
+}
+$halflambert 1
+$phong 0
+"GPU>=2?$phong" 1
+}
